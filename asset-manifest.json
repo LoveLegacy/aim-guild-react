@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/aim-guild-react/static/js/main.5079763f.chunk.js",
+    "main.js.map": "/aim-guild-react/static/js/main.5079763f.chunk.js.map",
+    "runtime-main.js": "/aim-guild-react/static/js/runtime-main.a178554f.js",
+    "runtime-main.js.map": "/aim-guild-react/static/js/runtime-main.a178554f.js.map",
+    "static/js/2.62dfae03.chunk.js": "/aim-guild-react/static/js/2.62dfae03.chunk.js",
+    "static/js/2.62dfae03.chunk.js.map": "/aim-guild-react/static/js/2.62dfae03.chunk.js.map",
+    "index.html": "/aim-guild-react/index.html",
+    "precache-manifest.24940c029c5f2e5afd302d9bab0fcfc9.js": "/aim-guild-react/precache-manifest.24940c029c5f2e5afd302d9bab0fcfc9.js",
+    "service-worker.js": "/aim-guild-react/service-worker.js",
+    "static/js/2.62dfae03.chunk.js.LICENSE.txt": "/aim-guild-react/static/js/2.62dfae03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a178554f.js",
+    "static/js/2.62dfae03.chunk.js",
+    "static/js/main.5079763f.chunk.js"
+  ]
+}
