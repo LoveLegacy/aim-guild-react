@@ -10,7 +10,6 @@ const Header = () => {
         Login
         </Menu.Item>
       </Link>
-      
     </Menu>
   );
 };
