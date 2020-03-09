@@ -5,7 +5,8 @@ import { createGlobalStyle } from "styled-components";
 import Colors from "../styles/colors";
 import normalize from "../styles/normalize";
 import Header from "../components/Header/Header";
-import Home from "../views/Home";
+import Home from "../views/Home/Home";
+import Dashboard from "../views/Dashboard/Dashboard";
 
 const GlobalStyle = createGlobalStyle`
   body{
@@ -23,7 +24,10 @@ const App = () => {
         <Header />
 
         <Switch>
-          <Route path="/">
+          <Route path="/dashboard">
+            <Dashboard />
+          </Route>
+          <Route path="/aim-guild-react">
             <Home />
           </Route>
         </Switch>
