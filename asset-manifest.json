@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/aim-guild-react/static/js/main.e0de3c3a.chunk.js",
-    "main.js.map": "/aim-guild-react/static/js/main.e0de3c3a.chunk.js.map",
+    "main.js": "/aim-guild-react/static/js/main.2ac3e7a2.chunk.js",
+    "main.js.map": "/aim-guild-react/static/js/main.2ac3e7a2.chunk.js.map",
     "runtime-main.js": "/aim-guild-react/static/js/runtime-main.a178554f.js",
     "runtime-main.js.map": "/aim-guild-react/static/js/runtime-main.a178554f.js.map",
-    "static/js/2.4aa42b38.chunk.js": "/aim-guild-react/static/js/2.4aa42b38.chunk.js",
-    "static/js/2.4aa42b38.chunk.js.map": "/aim-guild-react/static/js/2.4aa42b38.chunk.js.map",
+    "static/js/2.be5d590b.chunk.js": "/aim-guild-react/static/js/2.be5d590b.chunk.js",
+    "static/js/2.be5d590b.chunk.js.map": "/aim-guild-react/static/js/2.be5d590b.chunk.js.map",
     "index.html": "/aim-guild-react/index.html",
-    "precache-manifest.efee6f6aa30e8c78cc511a28234ba1c5.js": "/aim-guild-react/precache-manifest.efee6f6aa30e8c78cc511a28234ba1c5.js",
+    "precache-manifest.5b578e57c44a8c5a2a6cc6cbfa3a2475.js": "/aim-guild-react/precache-manifest.5b578e57c44a8c5a2a6cc6cbfa3a2475.js",
     "service-worker.js": "/aim-guild-react/service-worker.js",
-    "static/js/2.4aa42b38.chunk.js.LICENSE.txt": "/aim-guild-react/static/js/2.4aa42b38.chunk.js.LICENSE.txt"
+    "static/js/2.be5d590b.chunk.js.LICENSE.txt": "/aim-guild-react/static/js/2.be5d590b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a178554f.js",
-    "static/js/2.4aa42b38.chunk.js",
-    "static/js/main.e0de3c3a.chunk.js"
+    "static/js/2.be5d590b.chunk.js",
+    "static/js/main.2ac3e7a2.chunk.js"
   ]
 }
