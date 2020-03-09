@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "754e08df336ec044ec6e8383f3b533ed",
+    "revision": "51ee0bc071713c672637b499e7c6dd1f",
     "url": "/aim-guild-react/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aim-guild-react/static/js/2.4aa42b38.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9957bfc8b5e220412781",
-    "url": "/aim-guild-react/static/js/main.20a8152e.chunk.js"
+    "revision": "d1ba56bcaa1e15d829b1",
+    "url": "/aim-guild-react/static/js/main.e0de3c3a.chunk.js"
   },
   {
     "revision": "1df8526bb54b2c3f852c",
