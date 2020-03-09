@@ -1,12 +1,9 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
     <div>
-      <Link to={""}>
-        <p>Login</p>
-      </Link>
+      <a href="https://www.sapperdem.com/api/v1/discord">Login</a>
     </div>
   );
 };
