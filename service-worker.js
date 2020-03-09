@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aim-guild-react/precache-manifest.24940c029c5f2e5afd302d9bab0fcfc9.js"
+  "/aim-guild-react/precache-manifest.06703e2b186831953f29a1e9c5b2ad19.js"
 );
 
 self.addEventListener('message', (event) => {
