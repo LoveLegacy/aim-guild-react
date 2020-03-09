@@ -1,7 +1,7 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-import styled, { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from "styled-components";
 import Colors from "../styles/colors";
 import normalize from "../styles/normalize";
 import Header from "../components/Header/Header";
@@ -9,7 +9,7 @@ import Home from "../views/Home";
 
 const GlobalStyle = createGlobalStyle`
   body{
-    background-color: ${Colors.rose};
+    background-color: ${Colors.darkGray};
     padding: 1rem;
   }
   ${normalize}

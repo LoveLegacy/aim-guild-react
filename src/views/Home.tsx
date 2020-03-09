@@ -1,13 +1,14 @@
 import React from "react";
-import styled from "styled-components";
-
-const InputRow = styled.div`
-  margin-bottom: 0.5rem;
-`;
+import ImageCard from "../components/ImageCard/ImageCard";
 
 const Home = () => (
   <>
- 
+  <div>
+  <a href="https://www.sapperdem.com/api/v1/discord">Login</a>
+
+<ImageCard/>
+  </div>
+    
   </>
 );
 
