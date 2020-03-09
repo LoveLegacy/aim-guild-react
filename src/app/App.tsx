@@ -15,7 +15,7 @@ const GlobalStyle = createGlobalStyle`
   ${normalize}
 `;
 
-export default function App() {
+const App = () => {
   return (
     <Router>
       <div>
@@ -30,4 +30,6 @@ export default function App() {
       </div>
     </Router>
   );
-}
+};
+
+export default App;
